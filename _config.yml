@@ -26,7 +26,7 @@ baseurl: '/blogs'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: ""
+logo: "https://www.svgrepo.com/show/535117/activity.svg"
 
 # Pagination
 paginate: 5
