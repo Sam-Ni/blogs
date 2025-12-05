@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://sam-ni.github.io'
-baseurl: '/blogs'
+baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
